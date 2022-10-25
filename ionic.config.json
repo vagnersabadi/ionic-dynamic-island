@@ -1,0 +1,7 @@
+{
+  "name": "ionic-dynamic-island",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
